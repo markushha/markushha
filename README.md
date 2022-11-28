@@ -1,4 +1,4 @@
-Hi, I’m Mark :)
+Hi, I’m Mark
 I'm 15 years old, and here's a few facts about me
 
 - I live in Kazakhstan, Almaty. My mom's language is Russian and my English level is B2
