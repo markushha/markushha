@@ -1,4 +1,7 @@
-Hi, I’m Mark. 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mark</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Junior Front-End Dev</h3>
+
 I'm 15 years old, and here's a few facts about me
 
 - I live in Kazakhstan, Almaty. My mom's language is Russian and my English level is B2
