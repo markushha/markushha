@@ -1,18 +1,14 @@
 <h1 align="center">Hi there, I'm Mark
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Front-End Dev</h3>
-
-<div>
   
 <h3>I'm 15 years old, and here's a few facts about me</h3>
 
 - I live in Kazakhstan, Almaty. My mom's language is Russian and my English level is B2
 - I’m interested in Front-End development and AI
 - I’m currently learning TypeScript, Advanced React and Node.js and going to learn Redux
-  
-</div>
 
-<h3 margin="59px">My laguages and tools:</h3>
+<h3>My laguages and tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
