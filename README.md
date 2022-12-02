@@ -23,7 +23,7 @@
 <a><img src="http://github-readme-streak-stats.herokuapp.com?user=markushha&theme=react"/></a>
 
 <h2>For everyone how's reading it - I'm open to collaborate and you can find me here</h2>
-- <a href="https://www.instagram.com/marx2do/" target="_blank">@marx2do</a> - on instagram and telegram
+- <a href="https://www.instagram.com/marx2do/" target="_blank">@marx2do</a> - on instagram and telegram <br>
 - <a href="mailto: markincontact@icloud.com">markincontact@icloud.com</a> - send me an email
 
 Have a nice day and nice to meet you :)
