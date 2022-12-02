@@ -8,7 +8,7 @@
 - I’m interested in Front-End development and AI
 - I’m currently learning TypeScript, Advanced React and Node.js and going to learn Redux
 
-My laguages and tools:
+<h3>My laguages and tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -18,8 +18,9 @@ My laguages and tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 For everyone how's reading it - I'm open to collaborate and you can find me here
-- @marx2do - on instagram and telegram
+- <a href="https://www.instagram.com/marx2do/">@marx2do</a> - on instagram and telegram
 - markincontact@icloud.com - send me an email
 
 Have a nice day and nice to meet you :)
