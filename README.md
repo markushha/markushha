@@ -20,7 +20,7 @@
 </div>
 
 <h2>My stats:</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=markussha&theme=react&locale=ru)](https://git.io/streak-stats)
+<a><img src="http://github-readme-streak-stats.herokuapp.com?user=markushha&theme=react"/></a>
 
 <h2>For everyone how's reading it - I'm open to collaborate and you can find me here</h2>
 - <a href="https://www.instagram.com/marx2do/" target="_blank">@marx2do</a> - on instagram and telegram
