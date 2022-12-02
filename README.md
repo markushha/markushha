@@ -21,6 +21,6 @@
 
 For everyone how's reading it - I'm open to collaborate and you can find me here
 - <a href="https://www.instagram.com/marx2do/" target="_blank">@marx2do</a> - on instagram and telegram
-- markincontact@icloud.com - send me an email
+- <a href="mailto: markincontact@icloud.com">markincontact@icloud.com - send me an email</a>
 
 Have a nice day and nice to meet you :)
