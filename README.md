@@ -20,7 +20,7 @@
 </div>
 
 For everyone how's reading it - I'm open to collaborate and you can find me here
-- <a href="https://www.instagram.com/marx2do/">@marx2do</a> - on instagram and telegram
+- <a href="https://www.instagram.com/marx2do/" target="blank">@marx2do</a> - on instagram and telegram
 - markincontact@icloud.com - send me an email
 
 Have a nice day and nice to meet you :)
