@@ -1,6 +1,4 @@
-<h1 align="center">nice to meet you, I'm Mark</h1>
-  
-<h2>here's a few facts about me</h2>
+<h1 align="center">ayo, I'm Mark</h1>
 
 - I live in Kazakhstan, Almaty
 - I’m interested in Front-End development and AI
@@ -17,8 +15,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>for everyone how's reading it - I'm open to collaborate and you can find me here</h2>
-- <a href="https://www.instagram.com/marx2do/" target="_blank">@marx2do</a> - on instagram and telegram <br>
-- <a href="mailto: markincontact@icloud.com">markincontact@icloud.com</a> - send me an email
-
-have a nice day :)
+<h3>for everyone how's reading it - I'm open to collaborate and you can find me here</h3>
+<a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on instagram and telegram <br>
+<a href="mailto: markincontact@icloud.com">- markincontact@icloud.com</a> - send me an email
+<br>
+<h3 font="bold">have a nice day :)</h3> 
