@@ -1,4 +1,4 @@
-<h1 align="center">nice to meet you, I'm Mark
+<h1 align="center">nice to meet you, I'm Mark</h1>
   
 <h2>here's a few facts about me</h2>
 
