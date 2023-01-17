@@ -1,10 +1,10 @@
 <h3 align="center">Mark Inger</h3>
 
-- I live in Kazakhstan, Almaty
-- I’m interested in Front-End development and AI
-- I’m currently learning TypeScript, Advanced React and Node.js and going to learn Redux
+- located in Kazakhstan, Almaty
+- interested in Front-End development and AI
+- currently learning TypeScript, Next.js, Express & Node.js & MongoDB
 
-<h2>my laguages and tools:</h2>
+<h3>my laguages and tools:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
