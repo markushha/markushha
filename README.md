@@ -1,4 +1,4 @@
-<h1 align="center">ayo, I'm Mark</h1>
+<h3 align="center">Mark Inger</h3>
 
 - I live in Kazakhstan, Almaty
 - I’m interested in Front-End development and AI
