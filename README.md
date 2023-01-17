@@ -1,6 +1,6 @@
 <h3 align="center">hello, I'm Mark</h3>
 
-- located in Kazakhstan, Almaty
+- I live in Kazakhstan, Almaty
 - interested in Front-End development and AI
 - currently learning TypeScript, Next.js, Express & Node.js & MongoDB
 
