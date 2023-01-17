@@ -1,4 +1,4 @@
-<h3 align="center">Mark Inger</h3>
+<h3 align="center">mark inger</h3>
 
 - located in Kazakhstan, Almaty
 - interested in Front-End development and AI
