@@ -4,7 +4,7 @@
 - interested in Front-End development and AI
 - currently learning TypeScript, Next.js, Express & Node.js & MongoDB
 
-<h3>my laguages and tools:</h3>
+<h2>my laguages and tools:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -13,6 +13,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+</div>
+
+<h2>top used langs:</h2>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha)](https://github.com/markushha/github-readme-stats)
 </div>
 
 <h3>for everyone how's reading it - I'm open to collaborate and you can find me here</h3>
