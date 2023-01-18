@@ -17,7 +17,7 @@
 
 <h2>top used langs:</h2>
 <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha)](https://github.com/markushha/github-readme-stats)
+[![mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markushha)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3>for everyone how's reading it - I'm open to collaborate and you can find me here</h3>
