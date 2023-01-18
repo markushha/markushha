@@ -1,5 +1,5 @@
 <h3 align="center">hello, I'm Mark</h3>
-<h1 align="center">Web-developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/laptop_1f4bb.png" width="20"></img> </h1>
+<h1 align="center">Web-developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/laptop_1f4bb.png" width="40"></img> </h1>
 
 - I live in Kazakhstan, Almaty
 - interested in Front-End development and AI
