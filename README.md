@@ -16,9 +16,7 @@
 </div>
 
 <h2>top used langs:</h2>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=markushha)](https://github.com/markushha/markushha"></img>
-</div>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=markushha)](https://github.com/markushha)
 
 <h3>for everyone how's reading it - I'm open to collaborate and you can find me here</h3>
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on instagram and telegram <br>
