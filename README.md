@@ -24,7 +24,7 @@
 
 <h2>top used langs:</h2>
 
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
 
 <h3>for everyone how's reading it - you can find me here</h3>
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on instagram and telegram <br>
