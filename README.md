@@ -1,5 +1,4 @@
-<h3 align="center">Hey there, I'm Mark</h3>
-<h1 align="center">console.log("I'm a web developer") </h1>
+<h3>Hello, I'm Mark</h3>
 
 - from Kazakhstan, Almaty
 - interested in Front-End development and AI
