@@ -1,10 +1,10 @@
-<h3>Hello, I'm Mark</h3>
+<h4>Hello, I'm Mark</h3>
 
 - from Kazakhstan, Almaty
 - interested in Front-End development and AI
-- currently learning TypeScript, Next.js, Express & Node.js & MongoDB
+- currently learning TypeScript, Next.js, Node.js & MongoDB
 
-<h2>my laguages and tools:</h2>
+<h4>My laguages and tools:</h4>
 <div>
   
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -21,12 +21,11 @@
   
 </div>
 
-<h2>top used langs:</h2>
+<h4>My stats:</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
 
-<h3>for everyone how's reading it - you can find me here</h3>
+<h4>You can find me here</h4>
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on instagram and telegram <br>
 <a href="mailto: markincontact@icloud.com">- markincontact@icloud.com</a> - send me an email
 <br>
-<h3 font="bold">have a nice day :)</h3> 
