@@ -23,8 +23,12 @@
 
 <h4>My stats:</h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markushha&show_icons=true)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
+</div>
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markushha&show_icons=true)
+</div>
 
 <h4>You can find me here</h4>
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on both instagram & telegram <br>
