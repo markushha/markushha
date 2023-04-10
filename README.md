@@ -23,7 +23,7 @@
 
 <h4>My stats:</h4>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markushha&show_icons=true)
 
