@@ -29,5 +29,6 @@
 
 <h4>You can find me here</h4>
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on both instagram & telegram <br>
-<a href="mailto: markincontact@icloud.com">- markincontact@icloud.com</a> - send me an email
-<br>
+<a href="mailto: markincontact@icloud.com">- markincontact@icloud.com</a> - send me an email <br>
+<a href="https://www.mark-inger.tech/">- mark-inger.tech</a> - my website
+
