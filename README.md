@@ -1,10 +1,10 @@
-<h4>Hello, I'm Mark</h3>
+### Hello, I'm Mark 
 
 - from Kazakhstan, Almaty
 - interested in Front-End development and AI
 - currently learning TypeScript, Next.js, Node.js & MongoDB
 
-<h4>My laguages and tools:</h4>
+### My laguages and tools:
 <div>
   
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -21,13 +21,12 @@
   
 </div>
 
-<h4>My stats:</h4>
+### My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markushha&show_icons=true)
-
-<h4>You can find me here</h4>
+### You can find me here
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on both instagram & telegram <br>
 <a href="mailto: markincontact@icloud.com">- markincontact@icloud.com</a> - send me an email <br>
 <a href="https://www.mark-inger.tech/">- mark-inger.tech</a> - my website
