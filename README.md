@@ -21,11 +21,6 @@
   
 </div>
 
-### My stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markushha&layout=compact)](https://github.com/markushha)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markushha&show_icons=true)
 ### You can find me here
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on both instagram & telegram <br>
 <a href="mailto: markincontact@icloud.com">- markincontact@icloud.com</a> - send me an email <br>
