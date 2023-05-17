@@ -2,7 +2,7 @@
 
 - from Kazakhstan, Almaty
 - interested in Front-End development and AI
-- currently learning TypeScript, Next.js, Node.js & MongoDB
+- currently learning RTK-Query
 
 ### My laguages and tools:
 <div>
