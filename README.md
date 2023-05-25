@@ -1,7 +1,8 @@
-### Hello, I'm Mark 
+## Hello, I'm Mark 👋
 
+#### A Front-End Developer
 - from Kazakhstan, Almaty
-- interested in Front-End development and AI
+- interested in Back-End development and AI
 - currently learning RTK-Query
 
 ### My laguages and tools:
@@ -20,6 +21,9 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
+
+### My stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=markushha&theme=tokyonight)](https://git.io/streak-stats)
 
 ### You can find me here
 <a href="https://www.instagram.com/marx2do/" target="_blank">- @marx2do</a> - on both instagram & telegram <br>
