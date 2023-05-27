@@ -1,6 +1,6 @@
 # Hello, I'm [Mark](https://www.mark-inger.tech/) 👋
 
-### A Front-End Developer
+### 🧑‍💻 A Front-End Developer
 - from Kazakhstan, Almaty
 - interested in Back-End development and AI
 - currently learning RTK-Query
