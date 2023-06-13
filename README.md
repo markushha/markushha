@@ -1,9 +1,9 @@
 # Hello, I'm [Mark](https://www.mark-inger.tech/) 👋
 
-### 🧑‍💻 A Front-End Developer
+### 🧑‍💻 Front-End Developer
 - from Kazakhstan, Almaty
 - interested in Back-End development and AI
-- currently learning RTK-Query
+- currently learning Nest.js & Next.js App Router (13)
 
 ## My Skills
 
