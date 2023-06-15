@@ -31,4 +31,4 @@
 ## You can find me here
 ### 🌐 [marx2do](https://www.instagram.com/marx2do/) - both telegram & instagram
 ### 📧 <a href="mailto: markincontact@icloud.com">markincontact@icloud.com</a> - send me an email <br>
-### 🧑‍💻 **[My Website](https://www.mark-inger.tech/)** - visit my website
+### 🧑‍💻 **[mark-inger.tech](https://www.mark-inger.tech/)** - visit my website
