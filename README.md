@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Front-End Developer
 - from Kazakhstan, Almaty
-- interested in Back-End development and AI
+- interested in ML
 - currently learning Nest.js & Next.js App Router (13)
 
 ## My Skills
