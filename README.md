@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Front-End Developer
 - from Kazakhstan, Almaty
-- interested in ML & AI
+- interested in ML (on Python) & AI
 - currently learning Laravel & PHP
 
 ## My Skills
