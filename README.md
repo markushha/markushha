@@ -3,7 +3,7 @@
 ### 🧑‍💻 Front-End Developer
 - from Kazakhstan, Almaty
 - interested in ML & AI
-- currently learning Laravel
+- making videos on YouTube
 
 ## My Skills
 
