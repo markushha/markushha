@@ -1,6 +1,6 @@
 # Hello, I'm [Mark](https://www.mark-inger.tech/) 👋
 
-### 🧑‍💻 Front-End Developer
+### 🧑‍💻 Full-Stack Developer
 - from Kazakhstan, Almaty
 - interested in ML & AI
 - making videos on YouTube
